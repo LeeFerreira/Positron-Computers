@@ -1,8 +1,7 @@
 # Positron Computers System
 [![Positron: Bazzite](https://github.com/LeeFerreira/Positron-Computers/actions/workflows/build.yml/badge.svg)](https://github.com/LeeFerreira/Positron-Computers/actions/workflows/build.yml)
 
-A minimally modified Bazzite Plasma image suited for my personal needs. This will be expanded to Aurora once I figure out how to have two images on one repository.  
-There's no real significane to the name "Positron Computers". It just kinda sounds cool and activates my neurons.
+A minimally modified Bazzite Plasma image suited for my personal needs. This image will be expanded upon later and is currently just a little test for me.
 
 ## Base Image
 - Currently up to date with Fedora 43
@@ -16,7 +15,7 @@ There's no real significane to the name "Positron Computers". It just kinda soun
 - that's it for now
 - lawl
 
-## Community
+## Acknowledgments
 
 This little pet project would not be possible without:
 - [the Universal Blue Forums](https://universal-blue.discourse.group/)
