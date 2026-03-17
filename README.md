@@ -1,10 +1,6 @@
 # Positron: Hadron System
 
-<div align="center">
-  <picture>
-    <source srcset="https://raw.githubusercontent.com/LeeFerreira/Positron-Hadron/refs/heads/main/banner%20cropped.png">
-  </picture>
-</div>
+![Positron Banner](https://raw.githubusercontent.com/LeeFerreira/Positron-Hadron/refs/heads/main/banner%20cropped.png)
 
 [![Positron: Hadron](https://github.com/LeeFerreira/Positron-Computers/actions/workflows/build.yml/badge.svg)](https://github.com/LeeFerreira/Positron-Computers/actions/workflows/build.yml)
 
