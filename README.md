@@ -1,5 +1,5 @@
-# Positron Computers System
-[![Positron: Bazzite](https://github.com/LeeFerreira/Positron-Computers/actions/workflows/build.yml/badge.svg)](https://github.com/LeeFerreira/Positron-Computers/actions/workflows/build.yml)
+# Positron: Hadron System
+[![Positron: Hadron](https://github.com/LeeFerreira/Positron-Computers/actions/workflows/build.yml/badge.svg)](https://github.com/LeeFerreira/Positron-Computers/actions/workflows/build.yml)
 
 A minimally modified Bazzite Plasma image suited for my personal needs. This image will be expanded upon later and is currently just a little test for me.
 
