@@ -1,3 +1,5 @@
+https://github.com/LeeFerreira/Positron-Computers/actions/workflows/build.yml
+
 # Positron Computers System
 
 A minimally modified Bazzite Plasma image suited for my personal needs. This will be expanded to Aurora once I figure out how to have two images on one repository.  
@@ -10,7 +12,7 @@ There's no real significane to the name "Positron Computers". It just kinda soun
 - - you're more than welcome to fork for NVIDIA GPUs, i just don't use NVIDIA
 
 ### Additional Features
-- [Kvantum preinstalled](https://github.com/tsujan/Kvantum/blob/master/Kvantum/INSTALL.md)
+- [Kvantum](https://github.com/tsujan/Kvantum/blob/master/Kvantum/INSTALL.md) preinstalled
 - that's it for now
 - lawl
 
