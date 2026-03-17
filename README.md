@@ -1,6 +1,5 @@
-![Positron: Bazzite](https://github.com/LeeFerreira/Positron-Computers/actions/workflows/build.yml/badge.svg)
-
 # Positron Computers System
+[![Positron: Bazzite](https://github.com/LeeFerreira/Positron-Computers/actions/workflows/build.yml/badge.svg)](https://github.com/LeeFerreira/Positron-Computers/actions/workflows/build.yml)
 
 A minimally modified Bazzite Plasma image suited for my personal needs. This will be expanded to Aurora once I figure out how to have two images on one repository.  
 There's no real significane to the name "Positron Computers". It just kinda sounds cool and activates my neurons.
