@@ -1,4 +1,5 @@
 ![Positron Banner](https://raw.githubusercontent.com/LeeFerreira/Positron-Hadron/refs/heads/main/banner%20cropped.png)
+[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/positron-hadron)](https://artifacthub.io/packages/search?repo=positron-hadron)
 [![Positron: Hadron](https://github.com/LeeFerreira/Positron-Computers/actions/workflows/build.yml/badge.svg)](https://github.com/LeeFerreira/Positron-Computers/actions/workflows/build.yml)
 
 # Hadron System
