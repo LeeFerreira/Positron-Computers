@@ -23,6 +23,7 @@ A modified Bazzite Plasma image suited for my personal needs. This image will be
   - OBS, Parabolic, QOwnNotes, etc.
 - Ujust scripts
   - Installing Vencord on Discord flatpak
+  - Installing MiniDisc udev rules
 - Vectorheart themeing out of the box
   - Branding because I'm way too into this
 - [Aurora](https://getaurora.dev/) based version with similar but differing customisations
