@@ -7,6 +7,9 @@ set -ouex pipefail
 # this installs a package from fedora repos
 dnf install -y kvantum
 
+# Install Millennium
+curl -fsSL "https://steambrew.app/install.sh" | bash
+
 # Use a COPR Example:
 #
 # dnf5 -y copr enable ublue-os/staging
