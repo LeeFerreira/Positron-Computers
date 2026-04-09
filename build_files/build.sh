@@ -6,6 +6,7 @@ set -ouex pipefail
 
 # this installs a package from fedora repos
 dnf install -y kvantum
+dnf install -y portaudio
 
 # Use a COPR Example:
 #
